@@ -4,5 +4,9 @@
   link: /about.html
 - name: Blog
   link: /blog.html
-- name: Staff
-  link: /staff.html
+- name: Our cows
+  link: /cows.html 
+- name: Contacts
+  link: /contacts.html 
+- name: Donate
+  link: /donate.html 
